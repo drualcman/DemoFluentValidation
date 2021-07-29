@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFluentValidation", "DemoFluentValidation\DemoFluentValidation.csproj", "{292601D3-6048-4F06-A89A-911E0B48E547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292601D3-6048-4F06-A89A-911E0B48E547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292601D3-6048-4F06-A89A-911E0B48E547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292601D3-6048-4F06-A89A-911E0B48E547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292601D3-6048-4F06-A89A-911E0B48E547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91986710-6926-4398-9370-D080F335C657}
+	EndGlobalSection
+EndGlobal
