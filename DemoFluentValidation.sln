@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFluentValidation", "DemoFluentValidation\DemoFluentValidation.csproj", "{292601D3-6048-4F06-A89A-911E0B48E547}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFluentValidation.Entities", "DemoFluentValidation.Entities\DemoFluentValidation.Entities.csproj", "{0B39759E-2528-462B-9407-BCB1E624C73F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{292601D3-6048-4F06-A89A-911E0B48E547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292601D3-6048-4F06-A89A-911E0B48E547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292601D3-6048-4F06-A89A-911E0B48E547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B39759E-2528-462B-9407-BCB1E624C73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B39759E-2528-462B-9407-BCB1E624C73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B39759E-2528-462B-9407-BCB1E624C73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B39759E-2528-462B-9407-BCB1E624C73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
